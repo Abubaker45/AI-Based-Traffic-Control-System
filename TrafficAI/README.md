@@ -23,7 +23,7 @@ An AI system that detects vehicle density and adjusts signal timings accordingly
 ## ⚙️ Installation
 
 ```bash
-git clone git clone https://github.com/yourusername/TrafficAI.git
+git clone git clone https://github.com/Abubaker45/TrafficAI.git
 cd TrafficAI
 pip install -r requirements.txt
 
